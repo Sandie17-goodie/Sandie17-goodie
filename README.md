@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on anything basic
 - 😄 Pronouns: Sandie
-- ⚡ Fun fact: what you are not changing your are accepting
+- ⚡ Fun fact: what you are not changing you are accepting
 
-- 
+ 
 
 <!---
 Sandie17-goodie/Sandie17-goodie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
