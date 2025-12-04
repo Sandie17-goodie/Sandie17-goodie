@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sandie17-goodie
+- 👋 Hi, I’m @Sandie
 - 👀 I’m interested in learning how to code 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning SE
 - 💞️ I’m looking to collaborate on anything basic
 - 😄 Pronouns: Sandie
 - ⚡ Fun fact: what you are not changing you are accepting
